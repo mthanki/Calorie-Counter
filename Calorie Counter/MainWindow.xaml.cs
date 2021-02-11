@@ -29,7 +29,7 @@ namespace Calorie_Counter
         {
             var Button = sender as Button;
             var prop = Button.Tag;
-
+            `
             switch (prop)
             {
                 case "Apple":
